@@ -1,6 +1,6 @@
-# AIKA - Integrated Threat Detection and Recognition System
+# Integrated Threat Detection and Recognition System
 
-AIKA is an advanced integrated system that combines multiple computer vision techniques to detect and recognize various objects, faces, and hand movements in real-time. This system is designed to identify potential threats, classify objects, track hand gestures, and recognize faces using pre-trained models and frameworks such as YOLOv8, TensorFlow, Mediapipe, and face_recognition.
+This is an advanced integrated system that combines multiple computer vision techniques to detect and recognize various objects, faces, and hand movements in real-time. This system is designed to identify potential threats, classify objects, track hand gestures, and recognize faces using pre-trained models and frameworks such as YOLOv8, TensorFlow, Mediapipe, and face_recognition.
 
 ## Features
 - **Object Detection (YOLOv8)**: Identifies potential threats like knives, guns, and other dangerous objects in real-time using the YOLOv8 model.
